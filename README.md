@@ -1,2 +1,2 @@
-# EM_wave
-This is a graphics engine for c++ and it is made for 2D game programming
+# Ferrum
+This is an input and window handler designed to be used with GLFW and GLAD
